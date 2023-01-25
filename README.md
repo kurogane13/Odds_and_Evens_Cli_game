@@ -30,3 +30,5 @@ How to run the game?:
       - datetime
       - from datetime import datetime
     - Run the game with your python 3 version: python3.x odds_evens_game.py
+    
+NOTE: There is a folder named Game_Screenshots, were you can preview what the cli game looks like.
